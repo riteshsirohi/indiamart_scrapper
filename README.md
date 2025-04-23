@@ -100,18 +100,16 @@ This project scrapes product data from **IndiaMart.com** across key market categ
 ## 📁 Project Structure
 
 ```
-indiamart_scrap/
-├── scraper.py                 # Web scraper
-├── process_data.py           # EDA and data cleaning
-├── products.csv              # Raw scraped data
-├── products_cleaned.csv      # Cleaned dataset
-├── price_by_category.png     # Bar plot of average prices
-├── product_wordcloud.png     # Word cloud of product names
-├── indiamart_insights.md     # Detailed EDA insights
+.
 ├── data/
-│   ├── [Category]_page_[N].html  # Saved HTML pages
-│   └── scraper.log               # Error log (if any)
-└── README.md                # Project documentation
+├── outputs/
+├── utils/
+├── README.md
+├── indiamart_insights.md
+├── process_data.py
+├── requirements.txt
+├── scraper.py
+
 ```
 
 ---
