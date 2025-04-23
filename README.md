@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project scrapes product data from **IndiaMart.com** across key market categories and performs **exploratory data analysis (EDA)** to uncover pricing trends, product distribution, and supplier insights. Developed as part of my application for the **Data Extraction Engineering Intern** role at **SnapWrite AI**, it showcases hands-on skills in **web scraping, data cleaning, and data analysis using Python**.
+This project scrapes product data from **IndiaMart.com** across key market categories and performs **exploratory data analysis (EDA)** to uncover pricing trends, product distribution, and supplier insights. Developed as part of my application for the **Data  Engineering Intern** role at **Slooze**, it showcases hands-on skills in **web scraping, data cleaning, and data analysis using Python**.
 
 ---
 
