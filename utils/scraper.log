@@ -1,0 +1,55 @@
+2025-04-23 11:51:10,846 - INFO - Starting to scrape category: Industrial Machinery
+2025-04-23 11:51:10,969 - INFO - Page 1 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:13,226 - INFO - Page 2 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:15,582 - INFO - Page 3 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:17,839 - INFO - Page 4 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:20,139 - INFO - Page 5 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:22,844 - INFO - Page 6 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:25,471 - INFO - Page 7 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:30,233 - INFO - Page 8 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:33,073 - INFO - Page 9 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:35,760 - INFO - Page 10 of Industrial Machinery - Status Code: 200
+2025-04-23 11:51:37,955 - INFO - Starting to scrape category: Electronics & Electrical
+2025-04-23 11:51:38,204 - INFO - Page 1 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:38,204 - ERROR - Failed to fetch page 1 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:38,334 - INFO - Page 2 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:38,334 - ERROR - Failed to fetch page 2 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:38,465 - INFO - Page 3 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:38,465 - ERROR - Failed to fetch page 3 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:38,600 - INFO - Page 4 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:38,600 - ERROR - Failed to fetch page 4 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:38,717 - INFO - Page 5 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:38,717 - ERROR - Failed to fetch page 5 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:38,854 - INFO - Page 6 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:38,854 - ERROR - Failed to fetch page 6 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:38,975 - INFO - Page 7 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:38,975 - ERROR - Failed to fetch page 7 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:39,100 - INFO - Page 8 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:39,101 - ERROR - Failed to fetch page 8 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:39,232 - INFO - Page 9 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:39,232 - ERROR - Failed to fetch page 9 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:39,348 - INFO - Page 10 of Electronics & Electrical - Status Code: 404
+2025-04-23 11:51:39,348 - ERROR - Failed to fetch page 10 of Electronics & Electrical. Status code: 404
+2025-04-23 11:51:39,348 - INFO - Starting to scrape category: Medical & Healthcare
+2025-04-23 11:51:39,465 - INFO - Page 1 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:51:41,722 - INFO - Page 2 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:51:44,122 - INFO - Page 3 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:51:46,455 - INFO - Page 4 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:51:48,765 - INFO - Page 5 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:51:51,230 - INFO - Page 6 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:51:53,810 - INFO - Page 7 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:51:56,290 - INFO - Page 8 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:51:58,869 - INFO - Page 9 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:52:01,342 - INFO - Page 10 of Medical & Healthcare - Status Code: 200
+2025-04-23 11:52:03,523 - INFO - Starting to scrape category: Agriculture & Farming
+2025-04-23 11:52:03,654 - INFO - Page 1 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:05,991 - INFO - Page 2 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:08,302 - INFO - Page 3 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:10,555 - INFO - Page 4 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:12,876 - INFO - Page 5 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:15,407 - INFO - Page 6 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:17,970 - INFO - Page 7 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:20,515 - INFO - Page 8 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:23,148 - INFO - Page 9 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:25,737 - INFO - Page 10 of Agriculture & Farming - Status Code: 200
+2025-04-23 11:52:27,948 - INFO - Saved 274 unique products
